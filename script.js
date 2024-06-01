@@ -8,8 +8,8 @@ function validateLogin() {
   const notification = document.getElementById('notification');
 
   // Ganti dengan username dan password yang diinginkan
-  const correctUsername = 'simmo';
-  const correctPassword = 'simmo123';
+  const correctUsername = 'cesi';
+  const correctPassword = 'cesi123';
 
   if (username === correctUsername && password === correctPassword) {
     showNotification('Login Successful');
